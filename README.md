@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AI-FGH
-- 👀 I’m interested in AI and coding
+- 👀 I’m interested in AI and PROGRAMMING
 - 🌱 I’m currently learning FOREX AND TIMESERIES DATA
 - 📫 How to reach me ...
 
